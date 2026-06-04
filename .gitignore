@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# IDE
+.idea/
+*.iml
+workspace.xml
+misc.xml
+modules.xml
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# GeoIP database
+GeoLite2-Country.mmdb
+
+# Data / output files
+ip.txt
+ips.txt
+success.txt
+ips-useful.xlsx
+result.xlsx
+vless_api_part1.txt
+
+# Bandwidth test data
+bwh_00
+bwh_01
+bwh_02
+bwh_03
+bwh_04
+bwh_05
+bwh/
