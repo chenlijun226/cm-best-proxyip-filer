@@ -1,0 +1,36 @@
+﻿name: 定时执行 CM 反代 IP 筛选
+
+on:
+  schedule:
+    # 北京时间 19:00 = UTC 11:00
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 执行筛选脚本
+        run: python cm反代ip高优筛选订阅.py
+
+      - name: 提交更新文件（如有变更）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cm-proxyip-best-filter.txt
+          git diff --cached --quiet 2>$null
+          if ($LASTEXITCODE -ne 0) {
+            git commit -m "chore: auto update cm-proxyip-best-filter.txt [$(Get-Date -Format 'yyyy-MM-dd HH:mm')]"
+            git push
+          } else {
+            Write-Host "无变更，跳过提交"
+          }
