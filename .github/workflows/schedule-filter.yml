@@ -20,6 +20,8 @@ jobs:
           python-version: '3.x'
 
       - name: 执行筛选脚本
+        env:
+          PYTHONIOENCODING: utf-8
         run: python cm反代ip高优筛选订阅.py
 
       - name: 提交更新文件（如有变更）
