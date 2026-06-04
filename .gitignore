@@ -1,4 +1,4 @@
-# Virtual environment
+﻿# Virtual environment
 venv/
 Include/
 Lib/
@@ -25,7 +25,7 @@ ips.txt
 success.txt
 ips-useful.xlsx
 result.xlsx
-vless_api_part1.txt
+vless_api_part*.txt
 
 # Bandwidth test data
 bwh_00
