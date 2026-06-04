@@ -25,7 +25,7 @@ def generate_vless_from_api():
     TARGET_PORT = None
 
     API_URL = "https://zip.cm.edu.kg/all.json"
-    vless_prefix = "vless://b49b465d-657e-4dc0-8b09-215477e9519b@"
+    vless_prefix = "vless://b49b465d-657e-4dc0-8b09-215477e9519a@"
     #上一行格式为：vless_prefix = "vless://7f5a9f60-e2fb-46d0-b771-cdbe1db22046@" 更换自己的uuid+@
     vless_suffix = "?encryption=none&security=tls&sni=cmbeta.910226.xyz&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=cmbeta.910226.xyz&path=%2F"
     
