@@ -40,7 +40,6 @@
 69.63.203.58:443#美国-DMIT Cloud Services-AS906
 136.175.179.113:8443#美国-DMIT Cloud Services-AS906
 64.186.228.225:443#美国-DMIT Cloud Services-AS906
-179.255.112.151:443#美国-DMIT Cloud Services-AS906
 154.17.0.106:443#美国-DMIT Cloud Services-AS906
 179.255.104.195:443#美国-DMIT Cloud Services-AS906
 154.17.18.0:443#美国-DMIT Cloud Services-AS906
@@ -86,9 +85,7 @@
 179.253.236.130:443#美国-DMIT Cloud Services-AS906
 179.253.249.17:443#美国-DMIT Cloud Services-AS906
 154.17.12.58:443#美国-DMIT Cloud Services-AS906
-179.255.100.118:443#美国-DMIT Cloud Services-AS906
 179.255.124.250:443#美国-DMIT Cloud Services-AS906
-179.255.124.231:443#美国-DMIT Cloud Services-AS906
 179.255.152.201:443#美国-DMIT Cloud Services-AS906
 179.255.104.49:443#美国-Private Customer-AS906
 179.253.228.125:443#美国-DMIT Cloud Services-AS906
@@ -258,7 +255,6 @@
 179.255.152.223:443#美国-DMIT Cloud Services-AS906
 45.62.113.71:443#美国-IT7 Networks Inc-AS25820
 179.253.232.196:443#美国-DMIT Cloud Services-AS906
-199.115.231.112:2053#美国-Cluster Logic Inc-AS25820
 179.255.113.38:443#美国-DMIT Cloud Services-AS906
 179.255.104.124:443#美国-DMIT Cloud Services-AS906
 154.17.233.72:8443#美国-DMIT Cloud Services-AS906
@@ -305,15 +301,11 @@
 191.223.220.25:443#日本-DMIT Cloud Service - Tokyo-AS906
 179.253.252.105:443#日本-DMIT Cloud Service - Tokyo-AS906
 103.117.102.213:443#日本-DMIT Inc.-AS906
-191.222.212.77:443#日本-DMIT Inc.-AS906
 191.223.221.102:443#日本-DMIT Cloud Service - Tokyo-AS906
 191.222.223.84:443#日本-DMIT Cloud Service - Tokyo-AS906
 179.253.252.80:443#日本-DMIT Cloud Service - Tokyo-AS906
-212.50.251.135:443#日本-Cluster Logic Inc-AS25820
-45.78.53.202:443#日本-IT7 Networks Inc-AS25820
 191.223.221.70:443#日本-DMIT Cloud Service - Tokyo-AS906
 191.222.223.93:443#日本-DMIT Cloud Service - Tokyo-AS906
-178.157.57.43:443#日本-IT7 Networks Inc-AS25820
 191.223.208.183:443#香港-DMIT Cloud Service - Los Angeles-AS906
 154.12.188.198:443#香港-DMIT Cloud Service - Hong Kong-AS906
 154.3.35.229:443#香港-DMIT Cloud Service - Los Angeles-AS906
@@ -324,7 +316,6 @@
 154.3.35.10:443#香港-DMIT Cloud Service - Los Angeles-AS906
 154.3.38.53:443#香港-DMIT Cloud Service - Los Angeles-AS906
 154.12.188.161:443#香港-DMIT Cloud Service - Hong Kong-AS906
-191.223.208.224:443#香港-DMIT Cloud Service - Los Angeles-AS906
 191.223.209.39:443#香港-DMIT Cloud Service - Los Angeles-AS906
 154.12.177.26:443#香港-DMIT Cloud Service - Los Angeles-AS906
 154.3.35.193:2083#香港-DMIT Cloud Service - Los Angeles-AS906
