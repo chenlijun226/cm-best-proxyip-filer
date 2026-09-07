@@ -18,11 +18,11 @@
 136.175.179.113:8443#美国-DMIT Cloud Services-AS906
 179.253.241.241:8443#美国-DMIT Cloud Services-AS906
 179.253.238.70:2053#美国-DMIT Cloud Services-AS906
+64.186.228.224:8443#美国-DMIT Cloud Services-AS906
 179.255.152.34:2053#美国-Private Customer-AS906
 179.253.245.1:8443#美国-DMIT Cloud Services-AS906
 64.186.247.122:8443#美国-DMIT Cloud Services-AS906
 64.186.226.19:8443#美国-DMIT Cloud Services-AS906
-69.63.211.172:8443#美国-DMIT Cloud Services-AS906
 179.253.254.80:8443#美国-Private Customer-AS906
 45.59.184.58:8443#美国-DMIT Cloud Services-AS906
 154.17.16.219:8443#美国-DMIT Cloud Services-AS906
@@ -47,7 +47,6 @@
 179.253.245.201:8443#美国-DMIT Cloud Services-AS906
 179.255.114.109:8443#美国-DMIT Cloud Services-AS906
 179.255.125.93:8443#美国-DMIT Cloud Services-AS906
-45.78.69.159:443#美国-IT7 Networks Inc-AS25820
 179.253.242.15:8443#美国-DMIT Cloud Services-AS906
 179.253.249.10:8443#美国-DMIT Cloud Services-AS906
 179.253.234.23:8443#美国-DMIT Cloud Services-AS906
@@ -104,7 +103,6 @@
 179.253.226.115:2053#美国-DMIT Cloud Services-AS906
 104.224.157.136:8443#美国-IT7 Networks Inc-AS25820
 23.224.69.114:8443#美国-CloudRadium L.L.C-AS40065
-199.115.231.112:2053#美国-Cluster Logic Inc-AS25820
 45.62.115.189:443#美国-IT7 Networks Inc-AS25820
 91.217.139.70:443#美国-XNNET LIMITED-AS40065
 97.64.26.199:8443#美国-IT7 Networks Inc-AS25820
@@ -121,6 +119,7 @@
 95.169.10.248:443#美国-Cluster Logic Inc-AS25820
 172.93.32.237:443#加拿大-Cluster Logic Inc-AS25820
 172.93.32.125:443#加拿大-Cluster Logic Inc-AS25820
+104.129.183.69:443#加拿大-Cluster Logic Inc-AS25820
 150.242.90.62:443#加拿大-Cluster Logic Inc-AS25820
 23.224.69.116:8443#美国-CloudRadium L.L.C-AS40065
 67.216.198.4:443#美国-IT7 Networks Inc-AS25820
@@ -147,7 +146,6 @@
 172.247.244.74:443#美国-CloudRadium L.L.C-AS40065
 34.175.202.195:443#西班牙-Google LLC-AS396982
 185.239.71.145:443#荷兰-Cluster Logic Inc-AS25820
-162.211.230.89:2053#荷兰-IT7 Networks Inc-AS25820
 35.241.172.224:443#比利时-Google LLC-AS396982
 104.129.183.226:443#美国-IT7 Networks Inc-AS25820
 34.116.216.59:443#波兰-Google LLC-AS396982
@@ -158,19 +156,15 @@
 45.78.58.239:443#日本-IT7 Networks Inc-AS25820
 45.78.49.24:443#日本-IT7 Networks Inc-AS25820
 192.243.120.211:2096#日本-IT7 Networks Inc-AS25820
-154.21.88.234:8443#美国-DMIT Cloud Services-AS906
 191.222.219.124:2053#香港-DMIT Cloud Service - Los Angeles-AS906
 157.119.103.52:443#美国-CloudRadium L.L.C-AS40065
 154.3.35.193:2083#香港-DMIT Cloud Service - Los Angeles-AS906
 191.223.217.68:8443#香港-DMIT Cloud Service - Los Angeles-AS906
 191.222.217.144:2083#香港-DMIT Cloud Service - Los Angeles-AS906
 91.110.231.249:8443#香港-Globaldata Investments Inc.-AS40065
-91.110.174.222:8443#香港-Globaldata Investments Inc.-AS40065
 91.110.174.202:8443#香港-Globaldata Investments Inc.-AS40065
 91.110.174.198:8443#香港-Globaldata Investments Inc.-AS40065
 91.110.174.173:8443#香港-Globaldata Investments Inc.-AS40065
 91.110.174.201:8443#香港-Globaldata Investments Inc.-AS40065
-91.110.174.190:8443#香港-Globaldata Investments Inc.-AS40065
-91.110.174.205:8443#香港-Globaldata Investments Inc.-AS40065
 103.242.133.57:443#美国-CloudRadium L.L.C-AS40065
 45.131.179.106:8443#美国-CloudRadium L.L.C-AS40065
