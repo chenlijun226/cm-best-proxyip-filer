@@ -141,7 +141,7 @@ def generate_vless_from_api():
 
             seen_ips.add(current_ip)
 
-            best_filter_line = f"{current_ip}:{port}#{country_cn}-{as_org.replace(', Inc.', '').replace(' ', '-')}-AS{asn}"
+            best_filter_line = f"{current_ip}:{port}#{country_cn}-{as_org.replace(', Inc.', '').replace(' - ', '-').replace(' ', '-')}-AS{asn}"
             best_filter_lines.append(best_filter_line)
             
             if ":" in current_ip:
