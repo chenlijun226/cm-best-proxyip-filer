@@ -1,8 +1,8 @@
-173.208.166.60:8443#美国-WholeSale-Internet,-Inc.-AS32097
+173.208.166.60:8443#美国-WholeSale-Internet-AS32097
 34.136.112.104:443#美国-Google-LLC-AS396982
-173.208.166.59:8443#美国-WholeSale-Internet,-Inc.-AS32097
-83.147.39.12:8443#美国-WholeSale-Internet,-Inc.-AS32097
-173.208.166.58:8443#美国-WholeSale-Internet,-Inc.-AS32097
+173.208.166.59:8443#美国-WholeSale-Internet-AS32097
+83.147.39.12:8443#美国-WholeSale-Internet-AS32097
+173.208.166.58:8443#美国-WholeSale-Internet-AS32097
 34.70.211.132:2053#美国-Google-LLC-AS396982
 35.239.174.101:443#美国-Google-LLC-AS396982
 34.135.173.114:443#美国-Google-LLC-AS396982
