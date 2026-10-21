@@ -3,7 +3,19 @@
 import os
 import json
 import urllib.request
+import re
 import urllib.error
+
+
+def sort_best_filter_lines(lines):
+    def as_suffix(line):
+        return re.search(r"-AS\d+$", line).group(0)
+
+    group_order = {}
+    for line in lines:
+        group_order.setdefault(as_suffix(line), len(group_order))
+
+    return sorted(lines, key=lambda line: group_order[as_suffix(line)])
 
 def generate_vless_from_api():
     TARGET_COUNTRY = None
@@ -173,6 +185,7 @@ def generate_vless_from_api():
 
     # 写入 cm-proxyip-best-filter.txt：每行格式 ip#country_cn+city+asn
     best_filter_filename = "cm-proxyip-best-filter.txt"
+    best_filter_lines = sort_best_filter_lines(best_filter_lines)
     with open(best_filter_filename, 'w', encoding='utf8') as f:
         for line in best_filter_lines:
             f.write(line + "\n")
