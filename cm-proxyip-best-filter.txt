@@ -20,7 +20,6 @@
 179.255.111.160:443#美国-DMIT-Cloud-Services-AS906
 45.59.186.102:443#美国-DMIT-Cloud-Services-AS906
 179.255.99.167:8443#美国-DMIT-Cloud-Services-AS906
-179.255.136.0:8443#美国-DMIT-Cloud-Services-AS906
 45.59.187.125:443#美国-DMIT-Cloud-Services-AS906
 179.255.136.92:443#美国-DMIT-Cloud-Services-AS906
 179.255.99.30:443#美国-DMIT-Cloud-Services-AS906
@@ -47,6 +46,7 @@
 179.255.99.100:443#美国-DMIT-Cloud-Services-AS906
 179.255.99.24:443#美国-DMIT-Cloud-Services-AS906
 179.255.111.93:443#美国-DMIT-Cloud-Services-AS906
+179.255.136.73:443#美国-DMIT-Cloud-Services-AS906
 179.255.107.87:443#美国-DMIT-Cloud-Services-AS906
 179.253.226.191:8443#美国-DMIT-Cloud-Services-AS906
 179.255.103.187:443#美国-DMIT-Cloud-Services-AS906
@@ -56,6 +56,7 @@
 179.253.255.92:443#美国-DMIT-Cloud-Services-AS906
 179.253.239.92:8443#美国-DMIT-Cloud-Services-AS906
 179.255.141.59:443#美国-DMIT-Cloud-Services-AS906
+179.255.146.196:443#美国-DMIT-Cloud-Services-AS906
 131.143.180.53:443#美国-DMIT-Cloud-Services-AS906
 154.21.89.121:8443#美国-DMIT-Cloud-Services-AS906
 179.253.255.9:443#美国-DMIT-Cloud-Services-AS906
@@ -67,6 +68,7 @@
 179.253.255.7:443#美国-DMIT-Cloud-Services-AS906
 179.255.136.57:443#美国-DMIT-Cloud-Services-AS906
 179.253.254.98:8443#美国-DMIT-Cloud-Services-AS906
+154.26.190.226:8443#美国-DMIT-Cloud-Services-AS906
 179.253.247.221:443#美国-DMIT-Cloud-Services-AS906
 179.253.255.184:443#美国-DMIT-Cloud-Services-AS906
 179.253.247.105:443#美国-DMIT-Cloud-Services-AS906
@@ -86,6 +88,7 @@
 64.186.236.178:443#美国-DMIT-Cloud-Services-AS906
 191.223.220.250:443#日本-DMIT-Cloud-Service-Tokyo-AS906
 154.31.114.162:8443#日本-DMIT-Cloud-Service-Tokyo-AS906
+103.135.250.82:443#香港-DMIT-Cloud-Service-Los-Angeles-AS906
 191.223.216.7:443#香港-DMIT-Cloud-Service-Los-Angeles-AS906
 191.223.212.83:443#香港-DMIT-Cloud-Service-Los-Angeles-AS906
 191.223.217.255:443#香港-DMIT-Cloud-Service-Los-Angeles-AS906
@@ -108,7 +111,6 @@
 185.239.71.145:443#荷兰-IT7-Networks-Inc-AS25820
 185.239.68.163:443#荷兰-Cluster-Logic-Inc-AS25820
 45.78.58.239:443#日本-IT7-Networks-Inc-AS25820
-192.243.126.238:443#日本-IT7-Networks-Inc-AS25820
 23.225.58.246:443#美国-CloudRadium-L.L.C-AS40065
 23.224.69.118:443#美国-CloudRadium-L.L.C-AS40065
 23.224.69.116:8443#美国-CloudRadium-L.L.C-AS40065
