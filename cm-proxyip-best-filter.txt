@@ -20,6 +20,7 @@
 179.255.111.160:443#美国-DMIT-Cloud-Services-AS906
 45.59.186.102:443#美国-DMIT-Cloud-Services-AS906
 179.255.99.167:8443#美国-DMIT-Cloud-Services-AS906
+179.255.136.0:8443#美国-DMIT-Cloud-Services-AS906
 45.59.187.125:443#美国-DMIT-Cloud-Services-AS906
 179.255.136.92:443#美国-DMIT-Cloud-Services-AS906
 179.255.99.30:443#美国-DMIT-Cloud-Services-AS906
@@ -48,7 +49,7 @@
 179.255.111.93:443#美国-DMIT-Cloud-Services-AS906
 179.255.136.73:443#美国-DMIT-Cloud-Services-AS906
 179.255.107.87:443#美国-DMIT-Cloud-Services-AS906
-179.253.226.191:8443#美国-DMIT-Cloud-Services-AS906
+179.253.226.191:443#美国-DMIT-Cloud-Services-AS906
 179.255.103.187:443#美国-DMIT-Cloud-Services-AS906
 179.255.127.82:443#美国-DMIT-Cloud-Services-AS906
 179.253.236.209:2053#美国-DMIT-Cloud-Services-AS906
@@ -88,7 +89,6 @@
 64.186.236.178:443#美国-DMIT-Cloud-Services-AS906
 191.223.220.250:443#日本-DMIT-Cloud-Service-Tokyo-AS906
 154.31.114.162:8443#日本-DMIT-Cloud-Service-Tokyo-AS906
-103.135.250.82:443#香港-DMIT-Cloud-Service-Los-Angeles-AS906
 191.223.216.7:443#香港-DMIT-Cloud-Service-Los-Angeles-AS906
 191.223.212.83:443#香港-DMIT-Cloud-Service-Los-Angeles-AS906
 191.223.217.255:443#香港-DMIT-Cloud-Service-Los-Angeles-AS906
@@ -97,6 +97,7 @@
 179.253.232.219:8443#美国-DMIT-Cloud-Services-AS906
 65.49.219.27:443#美国-IT7-Networks-Inc-AS25820
 97.64.27.251:2053#美国-IT7-Networks-Inc-AS25820
+66.112.213.127:443#美国-IT7-Networks-Inc-AS25820
 67.216.198.4:443#美国-IT7-Networks-Inc-AS25820
 97.64.24.124:8443#美国-IT7-Networks-Inc-AS25820
 67.216.206.28:8443#美国-IT7-Networks-Inc-AS25820
